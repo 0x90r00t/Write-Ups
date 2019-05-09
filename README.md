@@ -1,2 +1,2 @@
 # Write-Ups
-Write-Ups for CTF
+301 - Repository moved here : gitlab.com/0x90r00t
